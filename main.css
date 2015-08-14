@@ -137,6 +137,70 @@
   background-position:center center;
 }
 
+.most-popular .article-5 {
+  background-image:url('http://i.imgur.com/XJDv995.png');
+  height:200px;
+  background-repeat:no-repeat;
+  background-size: cover;
+  background-position:center center;
+}
+
+.most-popular .article-6 {
+  background-image:url('http://i.imgur.com/4vPhnW3.png');
+  height:200px;
+  background-repeat:no-repeat;
+  background-size: cover;
+  background-position:center center;
+}
+
+.most-popular .article-7 {
+  background-image:url('http://i.imgur.com/aZOMxDG.png');
+  height:200px;
+  background-repeat:no-repeat;
+  background-size: cover;
+  background-position:center center;
+}
+
+.most-popular .article-8 {
+  background-image:url('http://i.imgur.com/GV2frbk.png');
+  height:200px;
+  background-repeat:no-repeat;
+  background-size: cover;
+  background-position:center center;
+}
+
+.most-popular .article-9 {
+  background-image:url('https://download.unsplash.com/19/desktop.JPG');
+  height:200px;
+  background-repeat:no-repeat;
+  background-size: cover;
+  background-position:center center;
+}
+
+.most-popular .article-10 {
+  background-image:url('https://download.unsplash.com/1/iphone-4-closeup.jpg');
+  height:200px;
+  background-repeat:no-repeat;
+  background-size: cover;
+  background-position:center center;
+}
+
+.most-popular .article-11 {
+  background-image:url('https://download.unsplash.com/1/bag-and-hands.jpg');
+  height:200px;
+  background-repeat:no-repeat;
+  background-size: cover;
+  background-position:center center;
+}
+
+.most-popular .article-12 {
+  background-image:url('https://download.unsplash.com/1/type-away.jpg');
+  height:200px;
+  background-repeat:no-repeat;
+  background-size: cover;
+  background-position:center center;
+}
+/*
 .tint-1{
   top:0;
   height:inherit;
@@ -144,4 +208,6 @@
   background-color:rgba(0,0,0,0.5);
   background-size:inherit;
 }
+*/
+
 
